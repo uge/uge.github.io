@@ -1,3 +1,7 @@
 [submodule "JetpackConfigurator"]
 	path = JetpackConfigurator
 	url = https://github.com/uge/JetpackConfigurator
+
+[submodule "JetpackConfigurator/vendor/TraquitoJetpack/ext/picoinf/ext/WsprEncoded"]
+	path = JetpackConfigurator/vendor/TraquitoJetpack/ext/picoinf/ext/WsprEncoded
+	url = https://github.com/uge/WsprEncoded
